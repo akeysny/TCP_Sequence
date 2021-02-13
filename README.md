@@ -36,7 +36,9 @@ App Walkthrough GIF
 
 App Walkthrough GIF
 
-<img src="<http://g.recordit.co/t8krQxVLLr.gif><br>
+
+<img src="http://g.recordit.co/t8krQxVLLr.gif" width=250><br>
+
 
 
 
