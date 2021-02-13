@@ -19,3 +19,9 @@
 App Walkthrough GIF
 
 <img src="http://g.recordit.co/thzeuM61AX.gif" width=250><br>
+
+- [x] We will notice a number of DNS packets to start with, we will be looking specifically at TCP oackets here
+
+App Walkthrough GIF
+
+<img src="http://g.recordit.co/C1fqWGQRcj.gif" width=250><br>
